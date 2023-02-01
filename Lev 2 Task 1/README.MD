@@ -1,1 +1,1 @@
-lEVEL 2 Task 1 - Calculator
+LEVEL 2 Task 1 - Calculator
