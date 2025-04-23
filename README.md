@@ -1,3 +1,1 @@
-# Tribute Website
 
-This project is a simple, responsive tribute website dedicated to **Captain Vikram Batra**, an Indian Army officer and national hero who was posthumously awarded the Param Vir Chakra for his bravery during the Kargil War of 1999. The site is built using **HTML and CSS** and showcases a clean and respectful layout highlighting key moments of his life, military service, legacy, and supreme sacrifice for the nation. The webpage features a hero section with an image, biographical details, and a detailed account of his achievements. It serves as a static informational page and can be further enhanced with interactivity or animations. The project is ideal for learning basic web design principles, semantic HTML structure, and custom styling with CSS.
